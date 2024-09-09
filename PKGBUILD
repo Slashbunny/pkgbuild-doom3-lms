@@ -15,7 +15,7 @@ backup=("opt/doom3/lms/cdoomcoopserver.cfg" \
         "opt/doom3/lms/roecoopserver.cfg" \
         "opt/doom3/lms/spcoopserver.cfg")
 source=('doom3-lms.desktop' 'doom3-lms.xpm' \
-'http://www.slashbunny.com/aur/doom3-lms/lastmanstandingcoop4multiplatform.zip')
+'https://aur.slashbunny.com/doom3-lms/lastmanstandingcoop4multiplatform.zip')
 sha256sums=('ac3e7cceaecc26e45051af2f72d04cdf0ec2afcee32283053b4e751dca67ccaa'
             '925893e8dee7e4d7834e1760923a7e954780e568157920d5b6014b739b627799'
             '3e88196efc60a9046b9518a249c99021aca1c6341c654129a772b1f28f04c37e')
